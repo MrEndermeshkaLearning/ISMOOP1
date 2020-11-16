@@ -1,0 +1,6 @@
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\LibFor7ISMBoot\bin\Debug\LibFor7ISMBoot.dll
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\LibFor7ISMBoot\bin\Debug\LibFor7ISMBoot.pdb
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\LibFor7ISMBoot\obj\Debug\LibFor7ISMBoot.csprojAssemblyReference.cache
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\LibFor7ISMBoot\obj\Debug\LibFor7ISMBoot.csproj.CoreCompileInputs.cache
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\LibFor7ISMBoot\obj\Debug\LibFor7ISMBoot.dll
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\LibFor7ISMBoot\obj\Debug\LibFor7ISMBoot.pdb

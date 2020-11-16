@@ -1,0 +1,10 @@
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\bin\Debug\ISMBootCamp7.exe.config
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\bin\Debug\ISMBootCamp7.exe
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\bin\Debug\ISMBootCamp7.pdb
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\bin\Debug\LibFor7ISMBoot.dll
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\bin\Debug\LibFor7ISMBoot.pdb
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\obj\Debug\ISMBootCamp7.csprojAssemblyReference.cache
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\obj\Debug\ISMBootCamp7.csproj.CoreCompileInputs.cache
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\obj\Debug\ISMBootCamp7.csproj.CopyComplete
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\obj\Debug\ISMBootCamp7.exe
+C:\Users\MrEndermeshka\source\repos\ISMBootCamp7\ISMBootCamp7\obj\Debug\ISMBootCamp7.pdb
